@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/google/crackseed" name="YurrahSeed/android_device_google_crackseed" remote="github" revision="lineage-15.1"/>
+    <project path="vendor/google/" name="YurrahSeed/proprietary_vendor_google" remote="github" revision="lineage-15.1"/>
+    <project path="kernel/cyanogen/msm8916" name="YurrahSeed/android_kernel_google_crackseed" remote="github" revision="lineage-15.1"/>
+    <project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" remote="github" revision="lineage-15.1"/>
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.1"/>
+</manifest>
